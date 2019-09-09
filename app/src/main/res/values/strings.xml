@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Split the Bill</string>
+    <string name="text_title">Split the Bill</string>
+    <string name="description">Bill Image</string>
+    <string name="button_calculate">Calculate Split</string>
+    <string name="hint_groupSize">Number of people in group</string>
+    <string-array name="quality">
+        <item>Excellent</item>
+        <item>Average</item>
+        <item>Poor</item>
+    </string-array>
+    <string name="button_continue">Continue to Split</string>
+    <string name="hint_cost">Cost of Bill</string>
+</resources>
